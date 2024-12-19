@@ -50,7 +50,7 @@ Ensure you have the following installed:
 
    - Create a MySQL database named `crmdb1`.
    - Run the provided SQL script to set up the tables.
-   - Update the `db.properties` file with your database credentials.
+   - Update the `application.properties` file with your database credentials.
 
 
 4. **Run the Application**
