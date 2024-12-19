@@ -32,7 +32,7 @@ Ensure you have the following installed:
 
 ## Getting Started
 
-1. **Clone the Repository**
+1. **Clone the Repository/Download project file**
 
    ```bash
    git clone https://github.com/PranavT96/psa2035.git
