@@ -5,8 +5,6 @@ Welcome to the **PSA2035** project repository! This project serves as a comprehe
 ## Features
 
 - **User Management**: Create, update, and manage user accounts.
-- **Data Analysis**: Tools for visualizing and analyzing key metrics.
-- **Report Generation**: Generate and export detailed reports.
 - **Scalable Design**: Optimized for performance and easy to scale.
 - **API Testing**: Endpoints tested using Postman.
 
